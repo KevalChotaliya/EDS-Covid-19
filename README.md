@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EDS Covid-19 
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+"# EDS-Covid-19" 
+>>>>>>> ce2e1e2c4075721646ff0b03e86cbf34b3e32363
